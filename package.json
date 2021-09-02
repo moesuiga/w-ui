@@ -1,0 +1,10 @@
+{
+  "name": "@wayowe/w-ui",
+  "version": "1.0.0",
+  "description": "基于原生 Web Components 开发的 UI 组件库",
+  "main": "index.js",
+  "module": "index.js",
+  "repository": "git@github.com:moesuiga/w-ui.git",
+  "author": "wangyouwei <wyw1121@live.com>",
+  "license": "MIT"
+}
